@@ -1,0 +1,13 @@
+#mainContainer {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+}
+
+#gameCanvas {
+    border: 2px solid grey;
+}
+
+body {
+    background-color: #222;
+}
